@@ -1,0 +1,23 @@
+input {
+    border-radius: 5px;
+}
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    color: yellow;
+}
+.header-survey {
+    background-color: blue; 
+    border-radius: 20px 20px 0 0;
+}
+.body-survey {
+    background-color: yellow;
+    color: blue;
+    border-radius: 0 0 20px 20px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+.survey-text {
+    text-align: center;
+}
